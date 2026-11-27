@@ -1,0 +1,13 @@
+expense_id,expense_date,description,category,amount,payment_mode
+101,2026-10-02,Swiggy Lunch,Food,350,UPI
+102,2026-10-05,Metro Card Recharge,Travel,500,UPI
+103,2026-10-12,Amazon Headphones,Shopping,2500,Card
+104,2026-10-18,Electricity Bill,Bills,1800,UPI
+105,2026-10-22,Amazon Refund,Shopping,-2500,Card
+106,2026-10-31,Late Night Dinner,,450,Cash
+107,2026-11-01,Monthly Rent,Bills,8000,Bank Transfer
+108,2026-11-05,Zomato Dinner,Food,420,UPI
+109,2026-11-10,Movie Tickets,Entertainment,600,Card
+110,2026-11-15,Uber Ride,Travel,280,UPI
+111,2026-11-20,Grocery Store,Food,1500,UPI
+112,2026-11-28,Mobile Recharge,,299,UPI
